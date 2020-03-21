@@ -1,0 +1,38 @@
+2020-03-20 01:53:26		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2020-03-20 01:53:26		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2020-03-20 01:53:26		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2020-03-20 01:53:26		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2020-03-20 01:53:26		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2020-03-20 01:53:26		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2020-03-20 01:53:26		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2020-03-20 01:53:26		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2020-03-20 01:53:26		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2020-03-20 01:53:26		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2020-03-20 01:53:26		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2020-03-20 01:53:26		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2020-03-20 01:53:26		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2020-03-20 01:53:26		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2020-03-20 01:53:26		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, ruby, script, spell, tcl, trigger, xfer
+2020-03-20 01:53:28		Options saved to sec.conf
+2020-03-20 01:53:28		Options saved to weechat.conf
+2020-03-20 01:53:28		Options saved to plugins.conf
+2020-03-20 01:53:28		Options saved to charset.conf
+2020-03-20 01:53:28		Options saved to logger.conf
+2020-03-20 01:53:28		Options saved to exec.conf
+2020-03-20 01:53:28		Options saved to trigger.conf
+2020-03-20 01:53:28		Options saved to spell.conf
+2020-03-20 01:53:28		Options saved to alias.conf
+2020-03-20 01:53:28		Options saved to buflist.conf
+2020-03-20 01:53:28		Options saved to fifo.conf
+2020-03-20 01:53:28		Options saved to xfer.conf
+2020-03-20 01:53:28		Options saved to irc.conf
+2020-03-20 01:53:28		Options saved to relay.conf
+2020-03-20 01:53:28		Options saved to guile.conf
+2020-03-20 01:53:28		Options saved to python.conf
+2020-03-20 01:53:28		Options saved to perl.conf
+2020-03-20 01:53:28		Options saved to tcl.conf
+2020-03-20 01:53:28		Options saved to ruby.conf
+2020-03-20 01:53:28		Options saved to lua.conf
+2020-03-20 01:53:28		Options saved to script.conf
+2020-03-20 01:53:28		Options saved to fset.conf
+2020-03-20 01:54:06		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, ruby, script, spell, tcl, trigger, xfer
